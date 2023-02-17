@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rebekah B. Choi
-- 👀 I’m interested in anime, games, and krnb/k-rap
-- 🌱 I’m currently a junior at UIC and majoring in CS
+- 👀 I’m interested in anime, games, and korean music
+- 🌱 I’m currently a senior at UIC and majoring in CS
 - 📫 Reach me at www.linkedin.com/in/rebekah-choi-9b29b81b7
 
 <!---
